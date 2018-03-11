@@ -1,0 +1,36 @@
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.events.resources
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.home.resources
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.Properties.Resources.resources
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.csproj.GenerateResource.Cache
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\bin\Debug\utsavbms.mdf
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\bin\Debug\utsavbms_log.ldf
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\bin\Debug\utsav.exe.config
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\bin\Debug\utsav.exe
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\bin\Debug\utsav.pdb
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.exe
+c:\users\harishchandra\documents\visual studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.pdb
+C:\Users\HarishChandra\Documents\Visual Studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.addcoordinator.resources
+C:\Users\HarishChandra\Documents\Visual Studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.addevent.resources
+C:\Users\HarishChandra\Documents\Visual Studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.admin.resources
+C:\Users\HarishChandra\Documents\Visual Studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.coordinator.resources
+C:\Users\HarishChandra\Documents\Visual Studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.login.resources
+C:\Users\HarishChandra\Documents\Visual Studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.register.resources
+C:\Users\HarishChandra\Documents\Visual Studio 2010\Projects\utsav\utsav\obj\x86\Debug\utsav.csprojResolveAssemblyReference.cache
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\bin\Debug\utsavbms.mdf
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\bin\Debug\utsavbms_log.ldf
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\bin\Debug\utsav.exe.config
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\bin\Debug\utsav.exe
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\bin\Debug\utsav.pdb
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.csprojResolveAssemblyReference.cache
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.addcoordinator.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.addevent.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.admin.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.coordinator.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.events.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.home.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.login.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.Properties.Resources.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.register.resources
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.csproj.GenerateResource.Cache
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.exe
+E:\BMS\4th Sem\Database management system\utsav dbms project\utsav\obj\x86\Debug\utsav.pdb
